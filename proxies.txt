@@ -1,0 +1,15 @@
+127.0.0.1 proxysite.com
+127.0.0.1 plainproxies.com
+127.0.0.1 croxyproxy.com
+127.0.0.1 proxysites.ai
+127.0.0.1 proxysite.pro
+127.0.0.1 proxysite.cloud
+127.0.0.1 proxysite.one
+127.0.0.1 kproxy.com
+127.0.0.1 croxyproxy.com
+127.0.0.1 webshare.io
+127.0.0.1 vpnbook.com
+127.0.0.1 hide.me
+127.0.0.1 4everproxy.com
+127.0.0.1 hidemyass.com
+127.0.0.1 whoer.net
